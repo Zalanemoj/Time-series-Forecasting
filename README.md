@@ -5,6 +5,9 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+<img width="3168" height="1344" alt="Banner" src="https://github.com/user-attachments/assets/87ee53db-7c7f-441c-a19b-fed351bdac51" />
+
+
 ## 📖 Overview
 This project focuses on **forecasting time-series data** (specifically electricity load/consumption) using machine learning and deep learning techniques. We compare the performance of gradient boosting models (**XGBoost**) against deep recurrent neural networks (**LSTM**) to predict future values based on historical patterns.
 
