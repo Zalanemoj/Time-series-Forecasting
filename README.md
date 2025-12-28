@@ -5,7 +5,8 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-<img width="3168" height="1344" alt="Banner" src="https://github.com/user-attachments/assets/87ee53db-7c7f-441c-a19b-fed351bdac51" />
+
+![Banner](https://github.com/user-attachments/assets/e2a035a9-d326-49a2-87ab-d237bf58ee74)
 
 
 ## 📖 Overview
